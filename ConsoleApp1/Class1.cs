@@ -11,6 +11,8 @@ namespace ConsoleApp1
         public void main()
         {
             Console.Write("Hola Mundo");
+            Console.Write("Hola Mundo---2");
+
         }
     }
 }
